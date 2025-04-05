@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+.button{
+    margin: 10px;
+    padding: 10px;
+    height: 75px;
+    width: 85px;
+    cursor: pointer;
+}
+
+#input-box{
+    width: 400px;
+    height: 60px;
+    margin: 30px;
+}
